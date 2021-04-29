@@ -10,3 +10,11 @@ a{
     color: aquamarine;
     font-size: 16px;
 }
+
+body {
+    background-color: black;
+}
+
+p {
+    text-align: center;
+}
