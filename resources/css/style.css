@@ -6,6 +6,13 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    text-align: center;
+}
+
 a{
     color: aquamarine;
     font-size: 16px;
@@ -17,4 +24,16 @@ body {
 
 p {
     text-align: center;
+}
+
+.copyright {
+    text-align: right;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+}
+
+.bottom-half h1 {
+    font-weight: 300;
+    font-size: 42px;
 }
